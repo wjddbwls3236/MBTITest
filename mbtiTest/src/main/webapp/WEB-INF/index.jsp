@@ -50,7 +50,7 @@
 	
 	<!-- 결과 페이지 -->
 	<div id ="result">
-		<h1>당신의 결과는?</h1>
+		<h1>당신의 결과는????</h1>
 		<div class="resultName">
 		
 		</div>
